@@ -1,2 +1,2 @@
-# devsistemas_FPOO
+# Aprendendo GIT no técnico
 Conteúdos de FPOO
